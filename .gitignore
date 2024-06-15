@@ -1,0 +1,13 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+.env
+
+# PyCharm
+.idea/
+
+# Ignore other files
+contacts.txt
